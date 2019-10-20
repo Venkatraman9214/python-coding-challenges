@@ -1,5 +1,6 @@
 FreeCodeCamp Python Curriculum
 =============
+This is definitely a one-stop-shop for learning python before advancing to intermediate levels.
 
 View live: https://freecodecamp.github.io/python-coding-challenges
 
